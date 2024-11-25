@@ -1,0 +1,22 @@
+
+{
+    "info" 
+    [
+                {
+        "id": 1,
+        "firstName": "Harry",
+        "lastName": "Daniel",
+        "phoneNumber": "09011777884",
+        "eMail": "Harry@gmail.com"
+            }
+            ,
+            {
+                "id": 2,
+                "firstName": "James",
+                "lastName": "Brown",
+                "phoneNumber": "07189409845",
+                "eMail": "Brown27@gmail.com"
+            }
+    ]
+}
+
